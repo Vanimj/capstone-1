@@ -1,0 +1,73 @@
+const products = [
+  {
+    id: 1,
+    name: "bucklebag fashion",
+    price: 300,
+    image: "buckle-fashion.png",
+    status: 5,
+  },
+  {
+    id: 2,
+    name: "floral sling",
+    price: 200,
+    image: "./floral-sling.jpg",
+    status: 5,
+  },
+  {
+    id: 3,
+    name: "knitted bag",
+    price: 100,
+    image: "./knitted-bag.jpg",
+    status: 5,
+  },
+  {
+    id: 4,
+    name: "pink bag",
+    price: 250,
+    image: "./pink-bag.jpg",
+    qty: 5,
+  },
+  {
+    id: 5,
+    name: "red handbag",
+    price: 300,
+    image: "./Red-handbag.jpg",
+    qty: 10,
+  },
+  {
+    id: 6,
+    name: "shoulderbag",
+    price: 450,
+    image: "./shoulder-bag.jpg",
+    qty: 5,
+  },
+  {
+    id: 7,
+    name: "sling bag",
+    price: 470,
+    image: "./sling-bag.jpg",
+    qty: 5,
+  },
+  {
+    id: 8,
+    name: "teal n pink",
+    price: 500,
+    image: "./teal-n-pink.jpg",
+    qty: 5,
+  },
+  {
+    id: 9,
+    name: "woven sling",
+    price: 400,
+    image: "./woven-sling.jpg",
+    qty: 5,
+  },
+  {
+    id: 10,
+    name: "yellow backpack",
+    price: 600,
+    image: "./yellow-backpack.jpg",
+    qty: 5,
+  },
+];
+export default products;
